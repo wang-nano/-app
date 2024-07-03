@@ -1,0 +1,48 @@
+<RCC>
+  <qresource prefix="图片">
+    <file>1/1.jpg</file>
+    <file>1/44.png</file>
+    <file>wallpaper/10.jpg</file>
+    <file>1/224用户.png</file>
+    <file>1/密码.png</file>
+    <file>1/person.png</file>
+    <file>wallpaper/1.jpg</file>
+    <file>all_data/plant_65/000001.png</file>
+    <file>1/22.png</file>
+    <file>1/33.png</file>
+    <file>1/11.png</file>
+    <file>1/首页.png</file>
+    <file>1/recycle.png</file>
+    <file>1/no.png</file>
+    <file>1/right.png</file>
+    <file>1/left.png</file>
+    <file>1/pingbao.png</file>
+    <file>1/battery.png</file>
+    <file>1/Wi-Fi.png</file>
+    <file>1/文件夹.png</file>
+    <file>识别.png</file>
+    <file>相机 (2).png</file>
+    <file>1/垃圾类别框.png</file>
+    <file>1/显示背景.png</file>
+    <file>1/显示屏界面.png</file>
+    <file>1/白框区域.png</file>
+    <file>1/z可回收垃圾 (1).png</file>
+    <file>1/白布.png</file>
+    <file>1/厨余垃圾.png</file>
+    <file>1/其他垃圾.png</file>
+    <file>1/有害垃圾.png</file>
+    <file>1/白布.png</file>
+    <file>1/白线.png</file>
+    <file>1/表情.png</file>
+    <file>1/定位.png</file>
+    <file>1/灰块.png</file>
+    <file>1/蓝条.png</file>
+    <file>1/晴.png</file>
+    <file>1/扫描框.png</file>
+    <file>1/扫描线.png</file>
+    <file>1/图像识别.png</file>
+    <file>1/显示屏界面.png</file>
+    <file>1/小贴士.png</file>
+    <file>1/语音识别 (1).png</file>
+  </qresource>
+</RCC>
